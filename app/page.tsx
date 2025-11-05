@@ -102,7 +102,7 @@ export default function Home() {
       <div className="max-w-7xl mx-auto">
         <AuthHeader />
         <h1 className="text-3xl font-semibold text-white mb-8 text-center">
-          Crypto Dashboard
+          Ethereum Wallet Scanner
         </h1>
 
         <FavoriteWallets 
